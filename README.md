@@ -1,5 +1,5 @@
-# Detritus
-![Detritus Logo](assets/ui/startScreen.png)
+<img src="assets/ui/logoBig.png" alt="Detritus Logo" width="900">
+<img src="assets/ui/startScreen.png" alt="Detritus Logo" width="600">
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
